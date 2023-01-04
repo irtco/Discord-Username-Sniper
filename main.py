@@ -50,7 +50,8 @@ title = f"""
 
 Username To Snipe: {USERNAME}
 Tag To Snipe: {TAG}
-                           
+
+Press ENTER To Start
 """
 
 sniped = """
