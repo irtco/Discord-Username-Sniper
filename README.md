@@ -1,5 +1,5 @@
 # Discord-Username-Sniper
-Discord Username/Tag Sniper
+Discord Username/Tag Sniper⚡
 
 ```Note:Account might get locked```
 
